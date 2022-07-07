@@ -1,0 +1,9 @@
+Quiz App - an application that provides quick and convenient access for teachers to create educational tests
+for students.
+
+Based on the logic of the application, this build lacks the following functionality:
+
+- Creating personal tests with the ability to share with other users;
+- Showing personal tests to the owner or other users with access rights;
+- Ability to edit created tests;
+- Ability to delete created tests.
